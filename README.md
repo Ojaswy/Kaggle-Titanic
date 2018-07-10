@@ -1,2 +1,3 @@
 # Kaggle-Titanic
-Analysis of Titanic data obtained from kaggle
+Some basic analysis of Titanic data obtained from kaggle.
+Will update the whole Analysis soon.
